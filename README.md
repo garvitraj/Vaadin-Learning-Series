@@ -1,2 +1,8 @@
 # Vaadin-Learning-Series
-Complete Learning Series for Java Vaadin From Basics
+In this I have shared my daily practice which i did in learing Java Vaadin.
+
+## Tech Stack Needed for this Project
+
+###1. JDK 8 or higher
+###2. Node js - It should be install globally.
+###3. Preffered IDE IntelliJ Idea or Eclipse
