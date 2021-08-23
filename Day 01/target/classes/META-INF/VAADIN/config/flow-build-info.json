@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Users\\win10\\Downloads\\hello-world-app\\hello-world-app",
+  "generatedFolder": "C:\\Users\\win10\\Downloads\\hello-world-app\\hello-world-app\\target\\frontend",
+  "frontendFolder": "C:\\Users\\win10\\Downloads\\hello-world-app\\hello-world-app\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
